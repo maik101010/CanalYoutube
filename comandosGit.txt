@@ -1,0 +1,11 @@
+Clonar repositorio
+- git clone 
+
+Descargar cambios 
+- git pull origin master
+
+Subir cambios
+- git add .
+- git commit -m "comentario sobre los archivos"
+- git push origin master
+
