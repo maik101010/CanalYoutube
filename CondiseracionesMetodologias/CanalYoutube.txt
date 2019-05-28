@@ -1,0 +1,82 @@
+Contenido del canal: 
+
+1- Puntos de vista críticos (Todos los miembros)
+
+2- Filosofia; Pesimismo, Absurdismo, Nihilismo, Existencialismo, 
+(Todos los miembros)
+Tema para vídeo = qué es el pragmatismo etico
+Filosofia de la praxis
+
+3- Sociedad, historia y economia (Ivan)
+
+4- Divulgación cientifica (Últimas noticias, investigación, etc.) 
+(Todos los miembros)
+
+5- Tecnologia (informatica, ciencias de la computacion, etc.) 
+(Michael y Anderson)
+
+
+
+Preproducción
+1- Definir la tematica de la cual vamos a hablar
+2- Redactar el tema, producir el audio del vídeo, en base a la tematica.
+3- Definir las imagenes y vídeos acordes al audio del vídeo
+
+Producción (editor del vídeo)
+1- Montar el audio (voz del expositor) y sonido de fondo
+2- Montamos los vídeos e imagenes acordes al segundo que vaya exponiendo el audio
+3- Editar el video; agregar estilos a las imagenes, ejemplo: mover hacía la derecha, zoom, etc. 
+
+
+- Camtasia
+- 
+
+
+La de la aeronave (Michael)
+La del vih (Ivan)
+El limite del universo (Anderson)
+
+2 noticias por miembro, 1:30 limite. 
+o
+3 noticias por miembro, 1:00 limite
+
+Tareas para el vídeo 
+- Sus imagenes y sus vídeos (en caso necesario), sobre su tema
+- El audio sobre cada noticia de manera individual
+- Definir el audio del vídeo
+
+
+Reglas: 
+imagen
+00_15
+
+imagen
+15_30 <---- nombre de la imagen
+
+video
+30_35
+
+
+Fecha de entrega: 20-05-2019 
+Fecha y hora de reunion: 20-05-2019 09:00 pm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
