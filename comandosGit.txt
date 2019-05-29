@@ -1,5 +1,5 @@
 Clonar repositorio
-- git clone 
+- git clone "repositorio"
 
 Descargar cambios 
 - git pull origin master
